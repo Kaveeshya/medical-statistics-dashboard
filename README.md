@@ -36,5 +36,5 @@ To transform complex healthcare data into interactive and meaningful insights us
 
 
 ## 👨‍💻 Author
-Kaveeshya
-Mevan-Fernando - https://github.com/Mevan-Fernando
+- Kaveeshya
+- Mevan-Fernando - https://github.com/Mevan-Fernando
