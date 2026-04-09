@@ -3,6 +3,15 @@
 
 ## 🚀 Live App
 https://akt123.shinyapps.io/medical_statistics/
+## 📸 Dashboard Preview
+
+![Dashboard](dashboard_main.png)
+
+### 📈 Age-Specific Fertility Rates
+![ASFR](asfr.png)
+
+### 📉 Fertility Trend
+![Smoking_Prevalance](smoking.png)
 
 ## 📌 Overview
 This project is an interactive dashboard built using R Shiny to analyze medical and demographic data.
@@ -25,15 +34,6 @@ This project is an interactive dashboard built using R Shiny to analyze medical 
 ## 💡 Purpose
 To transform complex healthcare data into interactive and meaningful insights using statistical methods.
 
-## 📸 Dashboard Preview
 
-### 📊 Overview
-![Dashboard](dashboard_main.png)
-
-### 📈 Age-Specific Fertility Rates
-![ASFR](asfr.png)
-
-### 📉 Fertility Trend
-![Smoking_Prevalance](smoking.png)
 ## 👨‍💻 Author
 Kaveeshya
